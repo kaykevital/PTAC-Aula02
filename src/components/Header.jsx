@@ -1,4 +1,8 @@
 export default function Header() {
-    return();
+    return(
+            <header>
+                <h2>MC GUIGA</h2>
+            </header>
+    );
 
 }
