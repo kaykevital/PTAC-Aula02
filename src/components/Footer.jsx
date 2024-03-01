@@ -1,7 +1,7 @@
 export default function Footer() {
     return(
         <footer>
-            <h3>Desenvolvedor: Kayke Vital</h3>
+            <p>Desenvolvedor: Kayke Vital</p>
         </footer>
     )
 }

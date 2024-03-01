@@ -7,6 +7,8 @@ export default function App() {
     <Header/>
     <Footer/>
    </main>
+   
+    
   );
 
 }
