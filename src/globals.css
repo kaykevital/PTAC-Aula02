@@ -1,5 +1,10 @@
 header{
     height: 100px;
-    background-color: #eeefee;
-    border-bottom: #eeefee solid;
+    background-color: #a5cfa5;
+    border-bottom: 2px #2d992d solid;
+    text-align: center;
+}
+
+footer{
+    padding-top: 700px;
 }
