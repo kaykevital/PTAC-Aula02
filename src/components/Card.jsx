@@ -3,7 +3,7 @@ export default function Card() {
         <div className="cards">
             <div className="card">
                 <img src="src/imagens/foto.png" className="img" alt="..."/>
-                <p>As coisas que eu mais amo fazer</p>
+                <p>Coisas que ama fazer</p>
                 <li>Jogar volei</li>
                 <li>Ouvir musicas</li>
                 <li>Cozinhar</li>
@@ -13,7 +13,7 @@ export default function Card() {
 
             <div className="card">
                 <img src="src/imagens/foto.png" className="img" alt="..."/>
-                <p>Meus aritistas mais ouvidos do Spotify</p>
+                <p>Aritistas mais ouvidos do Spotify</p>
                 <li>Gloria Groove</li>
                 <li>Diarra Sylla</li>
                 <li>Anitta</li>
@@ -23,14 +23,14 @@ export default function Card() {
 
             <div className="card">
                 <img src="src/imagens/foto.png" className="img" alt="..."/>
-                <p>Minhas series preferidas</p>
+                <p>Suas series preferidas</p>
                 <li>Steven Universe</li>
                 <li>Anne With An E</li>
                 <li>Ben 10</li>
                 <li>Stranger Things</li>
                 <li>Pose</li>
-            </div>
-            
+            </div>      
         </div>
+        
     )
 }
