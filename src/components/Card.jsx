@@ -30,6 +30,7 @@ export default function Card() {
                 <li>Stranger Things</li>
                 <li>Pose</li>
             </div>
+            
         </div>
     )
 }
