@@ -1,7 +1,7 @@
 export default function Footer() {
     return(
         <footer>
-            <p>Desenvolvedor: Kayke Vital</p>
+            <p>© Todos os direitos reservados a Kayke Vital</p>
         </footer>
     )
 }

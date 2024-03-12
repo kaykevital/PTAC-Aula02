@@ -1,10 +1,43 @@
+.principal{
+    background-color:#9ce29c
+}
+
 header{
     height: 100px;
     background-color: #a5cfa5;
-    border-bottom: 2px #2d992d solid;
+    border-top: 5px #2d992d solid;
     text-align: center;
 }
 
 footer{
-    padding-top: 700px;
+    height: 100px;
+    background-color: #a5cfa5;
+    border-bottom: 5px #2d992d solid;
+    text-align: center;
+}
+
+.img{
+    border-radius: 50px;
+    width: 85px;
+    
+}
+
+.cards{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.card{
+    border-left: 5px #2d992d solid;
+    border-right: 5px #2d992d solid;
+    padding: 7px;
+    width: 20%;
+    background-color: #a5cfa5;
+}
+
+li{
+    list-style: none;
+    padding: 3px;
 }
