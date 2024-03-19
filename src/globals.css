@@ -5,9 +5,7 @@ header{
     width: 100%;
     text-align: center;
     background-color: #a5cfa5;
-    border-top: 5px #2d992d solid;
     height: 100px;
-    padding-bottom: 20px;
 }
 
 header h2{
@@ -21,42 +19,8 @@ footer{
     width: 100%;
     text-align: center;
     background-color: #a5cfa5;
-    border-bottom: 5px #2d992d solid;
     height: 100px;
     padding-top: 20px;
-}
-
-.img{
-    border-radius: 50px;
-    width: 85px;
-    border: 3px #2d992d solid;
-}
-
-.cards{
-    margin-top: 210px;
-    top: 100px;
-    left: 0;
-    right: 0;
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-    background-color: #a5cfa5;
-}
-
-.card{
-    border-left: 5px #2d992d solid;
-    border-right: 5px #2d992d solid;
-    padding: 7px;
-    width: 20%;
-    background-color: #a5cfa5;
-    font-size: larger;
-}
-
-li{
-    list-style: none;
-    padding: 3px;
-    border: #2d992d solid 2px;
-    margin: 5px;
 }
 
 footer li{
@@ -64,10 +28,15 @@ footer li{
     border: none;
     display: inline;
     font-size: 30px;
+    padding: 3px;
 
 }
 
 .footer-icone a {
     color: black;
+}
+
+main{
+    text-align: center;
 }
 
